@@ -5,9 +5,9 @@
 <h3>  Sobre mim 💪  </h3>
 
 - 👪 &nbsp; Nas minhas horas vagas gosto de estar com minha famíia e amigos.
-- 🎓 &nbsp; Estudando **Starter Full Stack Web Developer** na <a href="https://www.growdev.com.br/">STARTUP GROWDEV</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Cursando programa **Starter Full Stack Web Developer** na <a href="https://www.growdev.com.br/">STARTUP GROWDEV</a>.
+- 💼 &nbsp; Estou trabalhando como **Porteiro** no momento, exercendo a **comunicação, resolução de problemas, orientação de público e trabalho em equipe.**
+- 🌱 &nbsp; Aprendendo no momento **HTML, CSS, Git, Github e Comunicação**.
 
 <br>
 
