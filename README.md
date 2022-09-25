@@ -21,14 +21,14 @@
 <a href="https://github.com/Jimenez09">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jimenez09&show_icons=true&theme=highcontrast&line_height=40" alt="**SEU NOME** github stats"/>
 </a>
-   
-    
+      
 <a href="https://github.com/Jimenez09">
  <img align="center" height=314 src="http://github-readme-streak-stats.herokuapp.com?user=Jimenez09&theme=highcontrast&date_format=j%20M%5B%20Y%5D&ring=C2CB12&currStreakLabel=C2CB12&fire=C2CB12&sideNums=00FEFE&currStreakNum=00FEFE" alt="**SEU NOME** streak-stats"/>
 </a>
- 
- </br>
-  </br>
+  
+</br>
+</br>
+
 <img  src="https://github-profile-trophy.vercel.app/?username=Jimenez09&theme=highcontrast&title=Stars,Followers,Commit,Repo&margin-w=30&margin-h=30&row=1&column=4&no-frame=true" />
 </div>
 
