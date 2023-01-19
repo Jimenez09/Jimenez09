@@ -6,8 +6,8 @@
 
 - 👪 &nbsp; Nas minhas horas vagas gosto de estar com minha famíia e amigos.
 - 🎓 &nbsp; Cursando programa **Starter Full Stack Web Developer** na <a href="https://www.growdev.com.br/">STARTUP GROWDEV</a>.
-- 💼 &nbsp; Estou trabalhando como **Porteiro** no momento, exercendo a **comunicação, resolução de problemas, orientação de público e trabalho em equipe.**
-- 🌱 &nbsp; Aprendendo no momento **HTML, CSS, Git, Github e Comunicação**.
+- 💼 &nbsp; Estou trabalhando como **Desenvolvedor de BI** no momento, exercendo a **comunicação, resolução de problemas, criação e extração de dados, criação de Dashboards, regra de negócio e trabalho em equipe.**
+- 🌱 &nbsp; Aprendendo no momento **React, APIs, PostgreSQL, Github e Comunicação**.
 
 <br>
 
@@ -35,10 +35,12 @@
 </br>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="C++" height="30" width="80" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C">
-  <img align="center" alt="Js" height="30" width="80" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
   <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5">
   <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+  <img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/-React-333333?style=flat&logo=react">
+  <img align="center" alt="C++" height="30" width="80" src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C">
+  <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+  <img align="center" alt="PostgreSQL" height="30" width="100" src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql">
 </div>
  
  <br>
