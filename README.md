@@ -6,7 +6,7 @@
 
 - 👪 &nbsp; Nas minhas horas vagas gosto de estar com minha famíia e amigos.
 - 🎓 &nbsp; Cursando programa **Starter Full Stack Web Developer** na <a href="https://www.growdev.com.br/">STARTUP GROWDEV</a>.
-- 💼 &nbsp; Estou trabalhando como **Desenvolvedor de BI** no momento, exercendo a **comunicação, resolução de problemas, criação e extração de dados, criação de Dashboards, regra de negócio e trabalho em equipe.**
+- 💼 &nbsp; Meu último trabalho foi como **Desenvolvedor de BI** no momento, exercendo a **comunicação, resolução de problemas, criação e extração de dados, criação de Dashboards, regra de negócio e trabalho em equipe.**
 - 🌱 &nbsp; Aprendendo no momento **React, APIs, PostgreSQL, Github e Comunicação**.
 
 <br>
